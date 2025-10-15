@@ -6,7 +6,7 @@ This is a template for a new Stack Auth + Convex + Next.js app.
 
 1. Clone the repository
     ```bash
-    git clone git@github.com:stack-auth/convex-next-template.git
+    git clone https://github.com/stack-auth/convex-next-template.git
     ```
 
 2. Install dependencies
